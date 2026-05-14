@@ -21,83 +21,177 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 Computer & Artificial Intelligence Student  
+- 📱 Flutter Developer specialized in cross-platform apps  
+- 🔥 Building scalable and responsive mobile applications  
+- 🧠 Interested in Clean Architecture & State Management  
+- 🚀 Passionate about problem solving and software engineering  
+- 🌱 Currently improving my backend integration & app architecture skills  
+
+<br>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman"/>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-6200EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<a href="https://github.com/MohamedRafat-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💼 Featured Projects
+# 💻 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🛒 Malek Elfawakah</h3>
-      <p>Full e-commerce app with Firebase auth, product management, cart & favorites</p>
-      <p><code>Flutter</code> <code>Firebase</code> <code>Cubit</code></p>
-      <a href="https://github.com/MohamedRafat-hub/malek-elfawakah">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🍔 Burger App</h3>
-      <p>Food ordering app with auth, cart, orders history & profile management</p>
-      <p><code>Flutter</code> <code>BLoC</code> <code>REST API</code></p>
-      <a href="https://github.com/MohamedRafat-hub/burger-app-flutter">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>📚 Bookly App</h3>
-      <p>Book browsing app built with Clean Architecture & BLoC</p>
-      <p><code>Flutter</code> <code>BLoC</code> <code>Clean Architecture</code></p>
-      <a href="https://github.com/MohamedRafat-hub/clean_arch_bookly_app">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>📋 Notify</h3>
-      <p>Notes app with local database and clean UI</p>
-      <p><code>Flutter</code> <code>SQLite</code> <code>Cubit</code></p>
-      <a href="https://github.com/MohamedRafat-hub/Notify">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
+<div align="center">
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+---
+
+### ⚡ State Management
+<img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Provider-5C2D91?style=for-the-badge"/>
+
+---
+
+### 🔥 Backend & Database
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+
+---
+
+### 🛠 Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🛒 E-Commerce App
+
+Modern e-commerce application with responsive UI and clean architecture.
+
+### ✨ Features
+- Firebase Authentication
+- Favorites & Cart System
+- Product Management
+- Cubit State Management
+- Responsive Design
+
+### 🛠 Tech Stack
+`Flutter` `Firebase` `Cubit`
+
+</td>
+
+<td width="50%">
+
+## 💬 Chat Application
+
+Real-time chat application with smooth and modern user experience.
+
+### ✨ Features
+- Real-time Messaging
+- Firebase Authentication
+- Cloud Firestore
+- Responsive UI
+
+### 🛠 Tech Stack
+`Flutter` `Firebase`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📋 Task Management App
+
+Simple and clean productivity application.
+
+### ✨ Features
+- Add / Edit / Delete Tasks
+- Local Database
+- Smooth UI
+- Clean Architecture
+
+### 🛠 Tech Stack
+`Flutter` `SQLite`
+
+</td>
+
+<td width="50%">
+
+## 🌦 Weather App
+
+Weather forecast app using REST APIs.
+
+### ✨ Features
+- Live Weather Data
+- Search Cities
+- API Integration
+- Clean UI
+
+### 🛠 Tech Stack
+`Flutter` `REST API`
+
+</td>
+
+</tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedRafat-hub&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRafat-hub&theme=tokyonight" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRafat-hub&layout=compact&theme=tokyonight" width="40%"/>
-</p>
+</div>
 
 ---
 
-## ⚡ Fun Fact
+# 📊 GitHub Analytics
 
-```dart
-while (alive) {
-  eat();
-  code();
-  sleep();
-  repeat();
-}
-```
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedRafat-hub&show_icons=true&theme=tokyonight&border_radius=10"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRafat-hub&theme=tokyonight&border_radius=10"/>
+
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRafat-hub&layout=compact&theme=tokyonight&border_radius=10"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+- Clean Architecture
+- Advanced Flutter Animations
+- Backend Integration
+- Software Design Patterns
+- Problem Solving
