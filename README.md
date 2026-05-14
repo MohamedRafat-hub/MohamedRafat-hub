@@ -21,70 +21,22 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 Computer & Artificial Intelligence Student  
-- 📱 Flutter Developer specialized in cross-platform apps  
-- 🔥 Building scalable and responsive mobile applications  
-- 🧠 Interested in Clean Architecture & State Management  
-- 🚀 Passionate about problem solving and software engineering  
-- 🌱 Currently improving my backend integration & app architecture skills  
-
-<br>
-
----
-
-# 🌐 Connect With Me
+## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,androidstudio,vscode,postman"/>
+</p>
 
-<a href="https://github.com/MohamedRafat-hub">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your_email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-6200EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 </p>
 
 ---
 
-# 💻 Tech Stack
-
-<div align="center">
-
-### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
----
-
-### ⚡ State Management
-<img src="https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Provider-5C2D91?style=for-the-badge"/>
-
----
-
-### 🔥 Backend & Database
-<img src="https://skillicons.dev/icons?i=firebase,mysql" />
-
----
-
-### 🛠 Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -93,36 +45,39 @@
 
 <td width="50%">
 
-## 🛒 E-Commerce App
+### 🛒 Malek Elfawakah
+Full e-commerce app with Firebase auth, product management, cart & favorites.
 
-Modern e-commerce application with responsive UI and clean architecture.
-
-### ✨ Features
+**✨ Features**
 - Firebase Authentication
 - Favorites & Cart System
 - Product Management
 - Cubit State Management
 - Responsive Design
 
-### 🛠 Tech Stack
+**🛠 Tech Stack**
 `Flutter` `Firebase` `Cubit`
+
+[View Repo](https://github.com/MohamedRafat-hub/malek-elfawakah)
 
 </td>
 
 <td width="50%">
 
-## 💬 Chat Application
+### 🍔 Burger App
+Food ordering app with full auth, cart, orders history & profile management.
 
-Real-time chat application with smooth and modern user experience.
+**✨ Features**
+- User Authentication & Auto Login
+- Browse Products & Categories
+- Cart & Checkout
+- Order History & Reorder
+- Upload Profile Image
 
-### ✨ Features
-- Real-time Messaging
-- Firebase Authentication
-- Cloud Firestore
-- Responsive UI
+**🛠 Tech Stack**
+`Flutter` `BLoC` `REST API`
 
-### 🛠 Tech Stack
-`Flutter` `Firebase`
+[View Repo](https://github.com/MohamedRafat-hub/burger-app-flutter)
 
 </td>
 
@@ -132,35 +87,37 @@ Real-time chat application with smooth and modern user experience.
 
 <td width="50%">
 
-## 📋 Task Management App
+### 📚 Bookly App
+Book browsing app built with Clean Architecture.
 
-Simple and clean productivity application.
-
-### ✨ Features
-- Add / Edit / Delete Tasks
-- Local Database
-- Smooth UI
+**✨ Features**
+- Browse Books
+- Book Details
 - Clean Architecture
+- BLoC State Management
 
-### 🛠 Tech Stack
-`Flutter` `SQLite`
+**🛠 Tech Stack**
+`Flutter` `BLoC` `Clean Architecture`
+
+[View Repo](https://github.com/MohamedRafat-hub/clean_arch_bookly_app)
 
 </td>
 
 <td width="50%">
 
-## 🌦 Weather App
+### 📋 Notify
+Notes app with local database and clean UI.
 
-Weather forecast app using REST APIs.
-
-### ✨ Features
-- Live Weather Data
-- Search Cities
-- API Integration
+**✨ Features**
+- Add / Edit / Delete Notes
+- Local Database
 - Clean UI
+- Cubit State Management
 
-### 🛠 Tech Stack
-`Flutter` `REST API`
+**🛠 Tech Stack**
+`Flutter` `SQLite` `Cubit`
+
+[View Repo](https://github.com/MohamedRafat-hub/Notify)
 
 </td>
 
@@ -171,27 +128,26 @@ Weather forecast app using REST APIs.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedRafat-hub&show_icons=true&theme=tokyonight&border_radius=10"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRafat-hub&theme=tokyonight&border_radius=10"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedRafat-hub&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedRafat-hub&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRafat-hub&layout=compact&theme=tokyonight&border_radius=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedRafat-hub&layout=compact&theme=tokyonight" width="40%"/>
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## ⚡ Fun Fact
 
-```yaml
-- Clean Architecture
-- Advanced Flutter Animations
-- Backend Integration
-- Software Design Patterns
-- Problem Solving
+```dart
+while (alive) {
+  eat();
+  code();
+  sleep();
+  repeat();
+}
+```
