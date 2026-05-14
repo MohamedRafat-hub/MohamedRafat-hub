@@ -1,14 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Rafat;Flutter+Mobile+Developer;Clean+Architecture+Enthusiast" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Mohamed Rafat 👋</h1>
+<h3 align="center">Flutter Mobile App Developer | CS & AI Student @ Benha University</h3>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/179383567?v=4" width="120" style="border-radius: 50%"/>
-</p>
-
-<p align="center">
-  Passionate Flutter Developer building clean, scalable mobile apps 🚀 <br/>
-  CS & AI Student @ Benha University | Open to Intern & Junior opportunities
+  🚀 Building clean, scalable mobile apps with Flutter & Dart <br/>
+  🎯 Open to <strong>Intern & Junior Flutter Developer</strong> opportunities <br/>
+  📍 Egypt
 </p>
 
 <p align="center">
